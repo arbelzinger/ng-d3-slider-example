@@ -1,3 +1,5 @@
+Checkout The Demo at: https://run.plnkr.co/preview/cj7wcllbf00093c5qg07qbs5f/
+
 # NgD3Slider
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
