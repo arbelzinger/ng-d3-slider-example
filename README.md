@@ -1,4 +1,4 @@
-Checkout The Demo at: https://run.plnkr.co/preview/cj7z61rfh00093c5qu835u1j2/
+Checkout The Demo at: https://embed.plnkr.co/JQo42K/
 
 # NgD3Slider
 
